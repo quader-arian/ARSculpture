@@ -27,13 +27,3 @@ MonoBehaviour:
     m_SpecifySize: 1
     m_Name: earth-blue-planet-globe-planet-87651
     m_Texture: {fileID: 0}
-  - m_SerializedGuid:
-      m_GuidLow: 4671091805290009181
-      m_GuidHigh: 6976275999508303272
-    m_SerializedTextureGuid:
-      m_GuidLow: 9292156976858469131
-      m_GuidHigh: 934401297517030793
-    m_Size: {x: 0.3, y: 0.3}
-    m_SpecifySize: 1
-    m_Name: among us
-    m_Texture: {fileID: 0}
