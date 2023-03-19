@@ -161,10 +161,10 @@ MonoBehaviour:
     imagePrefab: {fileID: 7038220984588547355, guid: 9d914c3d0b1114964b654dbb800f73cd,
       type: 3}
   - imageGuid: aae75228-1973-4dc0-b7a2-53d1566ee402
-    imagePrefab: {fileID: 7412390272454394293, guid: 54342b266035240ee8ca9d5949959c56,
+    imagePrefab: {fileID: 6793153714467856990, guid: 7552bff151ce1d54ca7eabdddec0765c,
       type: 3}
   - imageGuid: 3653e732-a252-4116-bad4-de76225ba50f
-    imagePrefab: {fileID: 3909808931353733223, guid: df501ee233544224fba8d2f5175efc8f,
+    imagePrefab: {fileID: 6793153714467856990, guid: 7552bff151ce1d54ca7eabdddec0765c,
       type: 3}
   m_ImageLibrary: {fileID: 11400000, guid: c86e375d7e7430442a1104e88fa21f21, type: 2}
 --- !u!114 &143437354
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 143437350}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a6d5323815f004189af1fb658b6c9369, type: 3}
   m_Name: 
@@ -726,10 +726,10 @@ MonoBehaviour:
   m_TrackingStateAction:
     m_UseReference: 0
     m_Action:
-      m_Name: 
+      m_Name: Tracking State
       m_Type: 0
       m_ExpectedControlType: 
-      m_Id: 
+      m_Id: c291ec63-45cd-4e26-abe2-2ac463ec1a1e
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -758,10 +758,10 @@ MonoBehaviour:
   m_SelectActionValue:
     m_UseReference: 0
     m_Action:
-      m_Name: 
+      m_Name: Select Action Value
       m_Type: 0
       m_ExpectedControlType: 
-      m_Id: 
+      m_Id: 99e730ad-1803-4d29-8196-3259814300e2
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -782,10 +782,10 @@ MonoBehaviour:
   m_ActivateActionValue:
     m_UseReference: 0
     m_Action:
-      m_Name: 
+      m_Name: Activate Action Value
       m_Type: 0
       m_ExpectedControlType: 
-      m_Id: 
+      m_Id: 7cef2929-9e72-426b-bb0a-64232b9ef7f2
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -822,10 +822,10 @@ MonoBehaviour:
   m_UIPressActionValue:
     m_UseReference: 0
     m_Action:
-      m_Name: 
+      m_Name: UI Press Action Value
       m_Type: 0
       m_ExpectedControlType: 
-      m_Id: 
+      m_Id: d512dccb-ebcd-4a27-8fbd-0845aca2d6cb
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -858,10 +858,10 @@ MonoBehaviour:
   m_DirectionalAnchorRotationAction:
     m_UseReference: 0
     m_Action:
-      m_Name: 
+      m_Name: Directional Anchor Rotation
       m_Type: 0
       m_ExpectedControlType: 
-      m_Id: 
+      m_Id: e634df6b-e7f0-444b-9f8f-3c0d02a935f1
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -1051,7 +1051,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1291259210
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1640,10 +1640,10 @@ MonoBehaviour:
   m_TrackingStateAction:
     m_UseReference: 0
     m_Action:
-      m_Name: 
+      m_Name: Tracking State
       m_Type: 0
       m_ExpectedControlType: 
-      m_Id: 
+      m_Id: 668f8a93-9989-4cb9-adf4-cc291b922b05
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -1672,10 +1672,10 @@ MonoBehaviour:
   m_SelectActionValue:
     m_UseReference: 0
     m_Action:
-      m_Name: 
+      m_Name: Select Action Value
       m_Type: 0
       m_ExpectedControlType: 
-      m_Id: 
+      m_Id: e7da5998-3e76-46c3-aeea-873dd30d36a1
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -1696,10 +1696,10 @@ MonoBehaviour:
   m_ActivateActionValue:
     m_UseReference: 0
     m_Action:
-      m_Name: 
+      m_Name: Activate Action Value
       m_Type: 0
       m_ExpectedControlType: 
-      m_Id: 
+      m_Id: b41a9bae-3d47-49f7-8e08-d9a26480b321
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -1752,10 +1752,10 @@ MonoBehaviour:
   m_UIPressActionValue:
     m_UseReference: 0
     m_Action:
-      m_Name: 
+      m_Name: UI Press Action Value
       m_Type: 0
       m_ExpectedControlType: 
-      m_Id: 
+      m_Id: 15447b64-8310-48ec-89d1-021893399041
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -1788,10 +1788,10 @@ MonoBehaviour:
   m_DirectionalAnchorRotationAction:
     m_UseReference: 0
     m_Action:
-      m_Name: 
+      m_Name: Directional Anchor Rotation
       m_Type: 0
       m_ExpectedControlType: 
-      m_Id: 
+      m_Id: dc272449-ba70-4eba-a1b1-49305cd540e2
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -1967,10 +1967,10 @@ MonoBehaviour:
   m_TrackingStateInput:
     m_UseReference: 0
     m_Action:
-      m_Name: 
+      m_Name: Tracking State Input
       m_Type: 0
       m_ExpectedControlType: 
-      m_Id: 
+      m_Id: 4d4a51bd-60e6-4b74-b062-3fe51af88954
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -2112,7 +2112,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1809621587
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2120,7 +2120,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1809621586}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
   m_Name: 
@@ -2137,7 +2137,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1809621586}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
@@ -2160,7 +2160,7 @@ Canvas:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1809621586}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 3
   m_RenderMode: 0
   m_Camera: {fileID: 0}
