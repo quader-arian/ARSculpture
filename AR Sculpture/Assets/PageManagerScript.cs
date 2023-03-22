@@ -27,8 +27,8 @@ public class PageManagerScript : MonoBehaviour
                 Destroy(o);
             }
         }
-        if(currentPage != "WeddingDay"){
-            GameObject[] objects = GameObject.FindGameObjectsWithTag("WeddingDay");
+        if(currentPage != "Wedding"){
+            GameObject[] objects = GameObject.FindGameObjectsWithTag("Wedding");
             foreach(GameObject o in objects){
                 Destroy(o);
             }
