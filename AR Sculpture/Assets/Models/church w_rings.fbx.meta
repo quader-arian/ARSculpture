@@ -2,7 +2,19 @@ fileFormatVersion: 2
 guid: 693c584b0e2d24b4682c338496f8c7a9
 ModelImporter:
   serializedVersion: 21300
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      74: -7806878530582402559
+    second: Torus|Torus.001Action
+  - first:
+      74: -8730468044713431094
+    second: Torus|TorusAction
+  - first:
+      74: 6755702151989149167
+    second: Torus.001|Torus.001Action
+  - first:
+      74: 4646315479830031230
+    second: Torus.001|TorusAction
   externalObjects: {}
   materials:
     materialImportMode: 2
