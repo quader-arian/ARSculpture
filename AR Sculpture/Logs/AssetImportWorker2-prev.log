@@ -749,3 +749,227 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 243.906845 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(518f069e6b8e9fd4ebe805675295e69e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(518f069e6b8e9fd4ebe805675295e69e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac6178c796e0b1c6021ed09ea5cca171') in 0.011257 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 325.071914 seconds.
+  path: Assets/Models/church w_rings.fbx
+  artifactKey: Guid(693c584b0e2d24b4682c338496f8c7a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/church w_rings.fbx using Guid(693c584b0e2d24b4682c338496f8c7a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '493ee71ddadc741435e7e24233b28eb9') in 0.083924 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005579 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Documents\GitHub\ARSculpture\AR Sculpture\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image D:\Documents\GitHub\ARSculpture\AR Sculpture\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 10 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.739 seconds
+Domain Reload Profiling:
+	ReloadAssembly (740ms)
+		BeginReloadAssembly (119ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (36ms)
+		EndReloadAssembly (556ms)
+			LoadAssemblies (83ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (184ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (27ms)
+			SetupLoadedEditorAssemblies (237ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (16ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (51ms)
+				ProcessInitializeOnLoadAttributes (151ms)
+				ProcessInitializeOnLoadMethodAttributes (15ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.38 ms, found 10 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4733 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 43 unused Assets / (112.8 KB). Loaded Objects now: 5272.
+Memory consumption went from 174.6 MB to 174.5 MB.
+Total: 2.634500 ms (FindLiveObjects: 0.232800 ms CreateObjectMapping: 0.161800 ms MarkObjects: 2.163100 ms  DeleteObjects: 0.076200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 164.571411 seconds.
+  path: Assets/Images/ReferenceImageLibrary.asset
+  artifactKey: Guid(c86e375d7e7430442a1104e88fa21f21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/ReferenceImageLibrary.asset using Guid(c86e375d7e7430442a1104e88fa21f21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7af3283818464c537fd9e32cda061aac') in 0.026359 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.578497 seconds.
+  path: Assets/Prefabs/church w_rings.prefab
+  artifactKey: Guid(da44ba662ad98eb46a5576f3e049d4b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/church w_rings.prefab using Guid(da44ba662ad98eb46a5576f3e049d4b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c2344747aa7de7ae4e5fb0e993f8075') in 0.052648 seconds 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 8.97 ms, found 10 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 43 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 43 unused Assets / (110.3 KB). Loaded Objects now: 5273.
+Memory consumption went from 80.3 MB to 80.2 MB.
+Total: 3.294500 ms (FindLiveObjects: 0.287800 ms CreateObjectMapping: 0.164400 ms MarkObjects: 2.760800 ms  DeleteObjects: 0.080900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 170.854156 seconds.
+  path: Assets/Prefabs/church w_rings.prefab
+  artifactKey: Guid(da44ba662ad98eb46a5576f3e049d4b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/church w_rings.prefab using Guid(da44ba662ad98eb46a5576f3e049d4b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb08c1fdc4dd144b53cd8c3576b13168') in 0.011237 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 172.180389 seconds.
+  path: Assets/Prefabs/church w_rings.prefab
+  artifactKey: Guid(da44ba662ad98eb46a5576f3e049d4b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/church w_rings.prefab using Guid(da44ba662ad98eb46a5576f3e049d4b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f91a24182367640bf88d4212df15b88') in 0.006076 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 347.403017 seconds.
+  path: Assets/Prefabs/church w_rings 1.prefab
+  artifactKey: Guid(7552bff151ce1d54ca7eabdddec0765c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/church w_rings 1.prefab using Guid(7552bff151ce1d54ca7eabdddec0765c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '847363871d2bf1c1914cffcb2daca385') in 0.013434 seconds 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 8.71 ms, found 10 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 43 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 43 unused Assets / (110.0 KB). Loaded Objects now: 5273.
+Memory consumption went from 82.4 MB to 82.3 MB.
+Total: 3.308400 ms (FindLiveObjects: 0.268100 ms CreateObjectMapping: 0.173300 ms MarkObjects: 2.789700 ms  DeleteObjects: 0.076700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 190.260025 seconds.
+  path: Assets/Prefabs/church w_rings 1.prefab
+  artifactKey: Guid(7552bff151ce1d54ca7eabdddec0765c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/church w_rings 1.prefab using Guid(7552bff151ce1d54ca7eabdddec0765c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4a98d04ea1f7ea4ad2a90c38af14b06') in 0.012153 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.168176 seconds.
+  path: Assets/Prefabs/church w_rings 1.prefab
+  artifactKey: Guid(7552bff151ce1d54ca7eabdddec0765c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/church w_rings 1.prefab using Guid(7552bff151ce1d54ca7eabdddec0765c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff6e2ce7ef2797507ac00f5787df329e') in 0.008478 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.991274 seconds.
+  path: Assets/Prefabs/church w_rings 1.prefab
+  artifactKey: Guid(7552bff151ce1d54ca7eabdddec0765c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/church w_rings 1.prefab using Guid(7552bff151ce1d54ca7eabdddec0765c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f11ac27a35a8c9bf9bac469396b5b25b') in 0.007834 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 20.927971 seconds.
+  path: Assets/Images/ReferenceImageLibrary.asset
+  artifactKey: Guid(c86e375d7e7430442a1104e88fa21f21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/ReferenceImageLibrary.asset using Guid(c86e375d7e7430442a1104e88fa21f21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd028348b95af1a7521a9020583d42d41') in 0.008842 seconds 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 7.78 ms, found 10 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 43 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 43 unused Assets / (110.1 KB). Loaded Objects now: 5273.
+Memory consumption went from 83.1 MB to 83.0 MB.
+Total: 3.088000 ms (FindLiveObjects: 0.251900 ms CreateObjectMapping: 0.149800 ms MarkObjects: 2.614700 ms  DeleteObjects: 0.071400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 95.419906 seconds.
+  path: Assets/Prefabs/church w_rings 1.prefab
+  artifactKey: Guid(7552bff151ce1d54ca7eabdddec0765c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/church w_rings 1.prefab using Guid(7552bff151ce1d54ca7eabdddec0765c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e40e7286ca2201c814acf7edfa15174e') in 0.010952 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.972200 seconds.
+  path: Assets/Prefabs/church w_rings 1.prefab
+  artifactKey: Guid(7552bff151ce1d54ca7eabdddec0765c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/church w_rings 1.prefab using Guid(7552bff151ce1d54ca7eabdddec0765c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07140f71efabae46b95818f794132a24') in 0.010535 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.192010 seconds.
+  path: Assets/Prefabs/church w_rings 1.prefab
+  artifactKey: Guid(7552bff151ce1d54ca7eabdddec0765c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/church w_rings 1.prefab using Guid(7552bff151ce1d54ca7eabdddec0765c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '344470c19888017808f3e452e44f9a37') in 0.007801 seconds 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 8.39 ms, found 10 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 43 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 43 unused Assets / (110.1 KB). Loaded Objects now: 5273.
+Memory consumption went from 83.8 MB to 83.7 MB.
+Total: 3.030800 ms (FindLiveObjects: 0.263500 ms CreateObjectMapping: 0.092300 ms MarkObjects: 2.603500 ms  DeleteObjects: 0.071100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 

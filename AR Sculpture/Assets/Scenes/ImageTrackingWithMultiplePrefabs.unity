@@ -160,11 +160,8 @@ MonoBehaviour:
   - imageGuid: 2c29eeed-d95c-4111-b724-80f9ff10ce86
     imagePrefab: {fileID: 7038220984588547355, guid: 9d914c3d0b1114964b654dbb800f73cd,
       type: 3}
-  - imageGuid: aae75228-1973-4dc0-b7a2-53d1566ee402
-    imagePrefab: {fileID: 6793153714467856990, guid: 7552bff151ce1d54ca7eabdddec0765c,
-      type: 3}
-  - imageGuid: 3653e732-a252-4116-bad4-de76225ba50f
-    imagePrefab: {fileID: 6793153714467856990, guid: 7552bff151ce1d54ca7eabdddec0765c,
+  - imageGuid: fdb3d978-8780-46c1-8d5b-1115d3977ca8
+    imagePrefab: {fileID: 4946887295856262439, guid: 7552bff151ce1d54ca7eabdddec0765c,
       type: 3}
   m_ImageLibrary: {fileID: 11400000, guid: c86e375d7e7430442a1104e88fa21f21, type: 2}
 --- !u!114 &143437354
