@@ -37,3 +37,13 @@ MonoBehaviour:
     m_SpecifySize: 1
     m_Name: QRCode2
     m_Texture: {fileID: 2800000, guid: 9957a6cfd80c7b44684f506a3400b755, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4944877106393160986
+      m_GuidHigh: 386950626898266798
+    m_SerializedTextureGuid:
+      m_GuidLow: 14183173061137416471
+      m_GuidHigh: 140324999139849896
+    m_Size: {x: 0.35, y: 0.24746093}
+    m_SpecifySize: 1
+    m_Name: wedding
+    m_Texture: {fileID: 2800000, guid: e0fc4117c0c0c4d4a876d6ded788f201, type: 3}
