@@ -22,7 +22,7 @@ AssetImportWorker2
 -logFile
 Logs/AssetImportWorker2.log
 -srvPort
-58128
+58396
 Successfully changed project path to: /Users/yihaoheliu/Documents/GitHub/ARSculpture/AR Sculpture
 /Users/yihaoheliu/Documents/GitHub/ARSculpture/AR Sculpture
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -54,11 +54,11 @@ Successfully changed project path to: /Users/yihaoheliu/Documents/GitHub/ARSculp
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [4403543360] Host "[IP] 10.24.227.52 [Port] 0 [Flags] 2 [Guid] 2616614735 [EditorId] 2616614735 [Version] 1048832 [Id] OSXEditor(0,yihaodeMacBook-Air.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [4470750528] Host "[IP] 10.24.227.52 [Port] 0 [Flags] 2 [Guid] 340522993 [EditorId] 340522993 [Version] 1048832 [Id] OSXEditor(0,yihaodeMacBook-Air.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [4403543360] Host "[IP] 10.24.227.52 [Port] 0 [Flags] 2 [Guid] 2616614735 [EditorId] 2616614735 [Version] 1048832 [Id] OSXEditor(0,yihaodeMacBook-Air.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [4470750528] Host "[IP] 10.24.227.52 [Port] 0 [Flags] 2 [Guid] 340522993 [EditorId] 340522993 [Version] 1048832 [Id] OSXEditor(0,yihaodeMacBook-Air.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 80.85 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 96.39 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.20f1 (577897200b8b)
 [Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2021.3.20f1/Unity.app/Contents/Resources/UnitySubsystems
@@ -73,103 +73,102 @@ Initialize mono
 Mono path[0] = '/Applications/Unity/Hub/Editor/2021.3.20f1/Unity.app/Contents/Managed'
 Mono path[1] = '/Applications/Unity/Hub/Editor/2021.3.20f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
 Mono config path = '/Applications/Unity/Hub/Editor/2021.3.20f1/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56448
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56801
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: /Applications/Unity/Hub/Editor/2021.3.20f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
 Register platform support module: /Applications/Unity/Hub/Editor/2021.3.20f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: /Applications/Unity/Hub/Editor/2021.3.20f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
-Registered in 0.000903 seconds.
+Registered in 0.002429 seconds.
 [usbmuxd] Start listen thread
+Native extension for iOS target not found
 [usbmuxd] Listen thread started
 [usbmuxd] Send listen message
-Native extension for iOS target not found
-2023-03-29 15:39:38.239 Unity[1448:7685897] [XcodeApplications] Failed to read NSDictionary from path @]Vi/Contents/Info.plist
+2023-03-29 15:51:20.337 Unity[1801:7694089] [XcodeApplications] Failed to read NSDictionary from path @]VH/Contents/Info.plist
 Native extension for Android target not found
 Android Extension - Scanning For ADB Devices 46 ms
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 82.73 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 80.94 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.532 seconds
+- Completed reload, in  0.660 seconds
 Domain Reload Profiling:
-	ReloadAssembly (532ms)
-		BeginReloadAssembly (45ms)
+	ReloadAssembly (660ms)
+		BeginReloadAssembly (121ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (0ms)
-		EndReloadAssembly (423ms)
-			LoadAssemblies (45ms)
+		EndReloadAssembly (461ms)
+			LoadAssemblies (122ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (80ms)
+			SetupTypeCache (86ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (19ms)
-			SetupLoadedEditorAssemblies (294ms)
+			RebuildScriptCaches (25ms)
+			SetupLoadedEditorAssemblies (317ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (135ms)
+				InitializePlatformSupportModulesInManaged (160ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (83ms)
+				RefreshPlugins (81ms)
 				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (50ms)
-				ProcessInitializeOnLoadMethodAttributes (25ms)
+				ProcessInitializeOnLoadAttributes (49ms)
+				ProcessInitializeOnLoadMethodAttributes (26ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002206 seconds.
+Registered in 0.007381 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image /Users/yihaoheliu/Documents/GitHub/ARSculpture/AR Sculpture/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
 Symbol file LoadedFromMemory doesn't match image /Users/yihaoheliu/Documents/GitHub/ARSculpture/AR Sculpture/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
 Native extension for iOS target not found
-2023-03-29 15:39:39.555 Unity[1448:7685897] [XcodeApplications] Failed to read NSDictionary from path @]Vi/Contents/Info.plist
 Native extension for Android target not found
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 81.31 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 80.86 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Package Manager log level set to [2]
 Mono: successfully reloaded assembly
-- Completed reload, in  0.873 seconds
+- Completed reload, in  0.967 seconds
 Domain Reload Profiling:
-	ReloadAssembly (874ms)
-		BeginReloadAssembly (73ms)
+	ReloadAssembly (968ms)
+		BeginReloadAssembly (96ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (3ms)
+			DisableScriptedObjects (15ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (22ms)
-		EndReloadAssembly (731ms)
-			LoadAssemblies (48ms)
+			CreateAndSetChildDomain (25ms)
+		EndReloadAssembly (798ms)
+			LoadAssemblies (108ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (225ms)
-			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (48ms)
-			SetupLoadedEditorAssemblies (360ms)
+			SetupTypeCache (233ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (51ms)
+			SetupLoadedEditorAssemblies (353ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (17ms)
+				InitializePlatformSupportModulesInManaged (19ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (81ms)
-				BeforeProcessingInitializeOnLoad (81ms)
-				ProcessInitializeOnLoadAttributes (166ms)
-				ProcessInitializeOnLoadMethodAttributes (14ms)
+				BeforeProcessingInitializeOnLoad (79ms)
+				ProcessInitializeOnLoadAttributes (160ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
 				AfterProcessingInitializeOnLoad (1ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (3ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launching external process: /Applications/Unity/Hub/Editor/2021.3.20f1/Unity.app/Contents/Tools/UnityShaderCompiler
 Launched and connected shader compiler UnityShaderCompiler after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 1.00 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 4757 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 51 unused Assets / (54.1 KB). Loaded Objects now: 5198.
-Memory consumption went from 164.9 MB to 164.8 MB.
-Total: 2.566416 ms (FindLiveObjects: 0.147167 ms CreateObjectMapping: 0.061166 ms MarkObjects: 2.276000 ms  DeleteObjects: 0.081708 ms)
+Memory consumption went from 165.2 MB to 165.1 MB.
+Total: 2.870083 ms (FindLiveObjects: 0.193375 ms CreateObjectMapping: 0.079542 ms MarkObjects: 2.511334 ms  DeleteObjects: 0.084916 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -183,31 +182,94 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 418485.708008 seconds.
-  path: Assets/Sounds/people-talking-adults-children.wav
-  artifactKey: Guid(7d56381ffdf0706409760026b87a9055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sounds/people-talking-adults-children.wav using Guid(7d56381ffdf0706409760026b87a9055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3b5fadcb56e7172704151480321cb2d') in 1.244291 seconds 
+  Time since last request: 419218.141978 seconds.
+  path: Assets/FirstDay/school/Prefabs/road/doroga.prefab
+  artifactKey: Guid(5b97ca6353ad429419598d36d1a55e6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstDay/school/Prefabs/road/doroga.prefab using Guid(5b97ca6353ad429419598d36d1a55e6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff80943e049bf8482366dc5c0b2dbbed') in 0.762077 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000068 seconds.
-  path: Assets/Sounds/Go to school.mp3
-  artifactKey: Guid(a91113ac318580f4cb7d9615dfd19ee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sounds/Go to school.mp3 using Guid(a91113ac318580f4cb7d9615dfd19ee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a3f30530acfc066ed8b167826eb7561') in 0.721480 seconds 
+  Time since last request: 111.579772 seconds.
+  path: Assets/FirstDay/school/Prefabs/props/jalousie.prefab
+  artifactKey: Guid(f67ff9d455ede6d448bdf23bc838c236) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstDay/school/Prefabs/props/jalousie.prefab using Guid(f67ff9d455ede6d448bdf23bc838c236) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca5c28780a65b4fb19edac02c64dbb2c') in 0.052836 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 301.640602 seconds.
-  path: Assets/Images/School.jpg
-  artifactKey: Guid(8b51de7c8be894aa488fb0b8e174ca4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Images/School.jpg using Guid(8b51de7c8be894aa488fb0b8e174ca4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '167f6517fc780be8ed6cb4b4ff5c3c8d') in 0.522351 seconds 
+  Time since last request: 0.000074 seconds.
+  path: Assets/FirstDay/school/Prefabs/props/rack.prefab
+  artifactKey: Guid(4f9d36e206efd9c408c4487f1d8c65af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstDay/school/Prefabs/props/rack.prefab using Guid(4f9d36e206efd9c408c4487f1d8c65af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bfaffa47a76cbb7c086b8ac8cab6773') in 0.013158 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 6.847923 seconds.
-  path: Assets/Images/Death.jpg
-  artifactKey: Guid(a9c644fff64fd46d38a68b51097c868f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Images/Death.jpg using Guid(a9c644fff64fd46d38a68b51097c868f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '119f8dd83d5f23a8decce165ce393061') in 0.008720 seconds 
+  Time since last request: 0.000057 seconds.
+  path: Assets/FirstDay/school/Prefabs/props/tray.prefab
+  artifactKey: Guid(985e26fbc81357349904fd1b56692048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstDay/school/Prefabs/props/tray.prefab using Guid(985e26fbc81357349904fd1b56692048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39ee4b9df96117f5319234de09b4817f') in 0.008049 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 54.600397 seconds.
-  path: Assets/Images/ReferenceImageLibrary.asset
-  artifactKey: Guid(c86e375d7e7430442a1104e88fa21f21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Images/ReferenceImageLibrary.asset using Guid(c86e375d7e7430442a1104e88fa21f21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a567775c5ea0da49cbd35a83a493f16') in 0.656172 seconds 
+  Time since last request: 0.000036 seconds.
+  path: Assets/FirstDay/school/Prefabs/props/wall4.prefab
+  artifactKey: Guid(2d0d657c1182735489e24a5ce302b99c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstDay/school/Prefabs/props/wall4.prefab using Guid(2d0d657c1182735489e24a5ce302b99c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a4ce4408332cb1aba2eb13815fde69a') in 0.006606 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/FirstDay/school/Prefabs/props/wall.prefab
+  artifactKey: Guid(d8553808ed1fd2a41982e26a8f099b9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstDay/school/Prefabs/props/wall.prefab using Guid(d8553808ed1fd2a41982e26a8f099b9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9d6da1ad47ab0c5d17f2fd9de476749') in 0.008243 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/FirstDay/school/Prefabs/props/rack1.prefab
+  artifactKey: Guid(6e8ee28b611f0274dba1617e8888f8ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstDay/school/Prefabs/props/rack1.prefab using Guid(6e8ee28b611f0274dba1617e8888f8ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c971f2ea0ad14e985f73583c0a940ec') in 0.029273 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/FirstDay/school/Prefabs/props/sheet1.prefab
+  artifactKey: Guid(7b5504fec8a3cf94d8d4814735af756c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstDay/school/Prefabs/props/sheet1.prefab using Guid(7b5504fec8a3cf94d8d4814735af756c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03b175164b90c0ab26647531a3046347') in 0.006993 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/FirstDay/school/Prefabs/props/sheet4.prefab
+  artifactKey: Guid(2335e4e4480899f46aabd539af49b014) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstDay/school/Prefabs/props/sheet4.prefab using Guid(2335e4e4480899f46aabd539af49b014) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90ba56653e6b8dce37f1c656f885bf9a') in 0.008112 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/FirstDay/school/Prefabs/props/locker_2.prefab
+  artifactKey: Guid(62b11dd993aa50e42a0890a734908161) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstDay/school/Prefabs/props/locker_2.prefab using Guid(62b11dd993aa50e42a0890a734908161) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a0b68f29c4baf0c56bf87f73df6d0e7') in 0.011287 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000514 seconds.
+  path: Assets/FirstDay/school/Prefabs/props/showcase.prefab
+  artifactKey: Guid(07f95da47d340af46b603c05bffc1cde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstDay/school/Prefabs/props/showcase.prefab using Guid(07f95da47d340af46b603c05bffc1cde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32551a7ed67ee77baae4ca871b067e1f') in 0.006738 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.002364 seconds.
+  path: Assets/FirstDay/school/Prefabs/props/table3.prefab
+  artifactKey: Guid(6d513e3e97508a3429bc5eac2b8b7145) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstDay/school/Prefabs/props/table3.prefab using Guid(6d513e3e97508a3429bc5eac2b8b7145) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecea51f69c1193499ff16d6c2afbe18e') in 0.006675 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001457 seconds.
+  path: Assets/FirstDay/school/Prefabs/props/locker_5.prefab
+  artifactKey: Guid(a0fb9817dd6493340b32e1c86fadfc0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstDay/school/Prefabs/props/locker_5.prefab using Guid(a0fb9817dd6493340b32e1c86fadfc0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '729e1200ba6253c539128777b2b8467c') in 0.013456 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000646 seconds.
+  path: Assets/FirstDay/school/Prefabs/props/sheet.prefab
+  artifactKey: Guid(9b19a44036ac44243a6c69a62bcfdbdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstDay/school/Prefabs/props/sheet.prefab using Guid(9b19a44036ac44243a6c69a62bcfdbdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fb4268a9736c970a463a3495db10600') in 0.005366 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/FirstDay/school/Prefabs/props/locker2.prefab
+  artifactKey: Guid(5c2334af47df6454c9e2eaadbfaa2cb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstDay/school/Prefabs/props/locker2.prefab using Guid(5c2334af47df6454c9e2eaadbfaa2cb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '825a0c1582038a0560b26d382db68bc7') in 0.010538 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
