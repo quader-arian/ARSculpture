@@ -192,3 +192,162 @@ Received Import Request.
   path: Assets/FirstDay/school/road/floor.fbx
   artifactKey: Guid(f7413ee7b6daa064087f5749d6f1b9f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/FirstDay/school/road/floor.fbx using Guid(f7413ee7b6daa064087f5749d6f1b9f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24423a17ae1ccec57bf0c8b92b272d79') in 0.014479 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 466.416088 seconds.
+  path: Assets/FirstDay/school/props/locker1.fbx
+  artifactKey: Guid(a009d4148ee08684d917c68693f75228) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstDay/school/props/locker1.fbx using Guid(a009d4148ee08684d917c68693f75228) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f31f3052f38b6057221e91858eab6b0') in 0.020179 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/FirstDay/school/props/table2.fbx
+  artifactKey: Guid(428d9da19f0db6d42a12afe656585894) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstDay/school/props/table2.fbx using Guid(428d9da19f0db6d42a12afe656585894) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e47db4896253d9a4dab3f37f94733a1f') in 0.039048 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/FirstDay/school/props/wall4.fbx
+  artifactKey: Guid(65c4b63d3ab1edc4c98cc4216586cccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstDay/school/props/wall4.fbx using Guid(65c4b63d3ab1edc4c98cc4216586cccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8d5b8351234c7ebff820596364a52af') in 0.028263 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/FirstDay/school/props/sheet3.fbx
+  artifactKey: Guid(f9193b59ff4960f49b88d5a868e743f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstDay/school/props/sheet3.fbx using Guid(f9193b59ff4960f49b88d5a868e743f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '377be5a7d12121f52958e028a4ad33c9') in 0.014979 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/FirstDay/school/props/locker_1.fbx
+  artifactKey: Guid(6c66e7ddb4e3bf94e8581dbdbd34d601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstDay/school/props/locker_1.fbx using Guid(6c66e7ddb4e3bf94e8581dbdbd34d601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0be2720af8816f3079588e32412dec98') in 0.019053 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000603 seconds.
+  path: Assets/FirstDay/school/props/locker_5.fbx
+  artifactKey: Guid(7b076f4bc078820418c69918ad1d12e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstDay/school/props/locker_5.fbx using Guid(7b076f4bc078820418c69918ad1d12e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6562c906e93670ada96791debacd869c') in 0.015479 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003294 seconds.
+  path: Assets/FirstDay/school/props/tray.fbx
+  artifactKey: Guid(cc76c0b780396284a8d4e9fe8d4e7482) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstDay/school/props/tray.fbx using Guid(cc76c0b780396284a8d4e9fe8d4e7482) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c7daf0cdc15184bfb1bab9e124f45f8') in 0.019103 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/FirstDay/school/props/projector.fbx
+  artifactKey: Guid(72270d1b0c152ed449c796ec8a390366) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstDay/school/props/projector.fbx using Guid(72270d1b0c152ed449c796ec8a390366) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b2af0332f1f8b71a6d3afd040355af2') in 0.018227 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000490 seconds.
+  path: Assets/FirstDay/school/props/rack1.fbx
+  artifactKey: Guid(3d58d5cb75277704fbee090d5dc98394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstDay/school/props/rack1.fbx using Guid(3d58d5cb75277704fbee090d5dc98394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94b507b28c58ffa4b437e748c9dd6e07') in 0.703212 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.168478 seconds.
+  path: Assets/FirstDay/school/props/chair1.fbx
+  artifactKey: Guid(e3fd7e9d6b3f64648beef3391d3952d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstDay/school/props/chair1.fbx using Guid(e3fd7e9d6b3f64648beef3391d3952d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc872d317d8810c48bf7c46b75844f96') in 0.016030 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/FirstDay/school/props/fire1.fbx
+  artifactKey: Guid(9039d479f37a33c4a81362d04791c6b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstDay/school/props/fire1.fbx using Guid(9039d479f37a33c4a81362d04791c6b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f2ccee054832c9fb4f598c3d7c2a377') in 0.036429 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000096 seconds.
+  path: Assets/FirstDay/school/props/computer3.fbx
+  artifactKey: Guid(f31be39be55038b4dbc591468d4b9ccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstDay/school/props/computer3.fbx using Guid(f31be39be55038b4dbc591468d4b9ccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ea4123406c3e8229168f5b80b86cfb8') in 0.013433 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/FirstDay/school/props/jalousie.fbx
+  artifactKey: Guid(f8efd7bda192d6d4c9936256eff57e9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstDay/school/props/jalousie.fbx using Guid(f8efd7bda192d6d4c9936256eff57e9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29ad5d239e798017ade34723090a5069') in 0.011656 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000088 seconds.
+  path: Assets/FirstDay/school/props/fire.fbx
+  artifactKey: Guid(400505d5a5ae5cc47bc16dc4307f2c04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstDay/school/props/fire.fbx using Guid(400505d5a5ae5cc47bc16dc4307f2c04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83d6166cd6f9c0284d553827dd659527') in 0.011204 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.157264 seconds.
+  path: Assets/FirstDay/school/props/book11.fbx
+  artifactKey: Guid(469050c7eb8ed64428b8fb7604b109fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstDay/school/props/book11.fbx using Guid(469050c7eb8ed64428b8fb7604b109fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4aae109a5817483232d31330f6a29525') in 0.018045 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.002123 seconds.
+  path: Assets/FirstDay/school/props/button.fbx
+  artifactKey: Guid(f91d72df50fef7f489d2eeb99baf0c1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstDay/school/props/button.fbx using Guid(f91d72df50fef7f489d2eeb99baf0c1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '471302d954caeb23755c59ab1af9c9fd') in 0.019199 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000091 seconds.
+  path: Assets/FirstDay/school/props/book13.fbx
+  artifactKey: Guid(2ac56e37ab0b8c84d8aa8020fb2082b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstDay/school/props/book13.fbx using Guid(2ac56e37ab0b8c84d8aa8020fb2082b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '562aecb55a6a0f7e5d94519a9f909ec1') in 0.029466 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003231 seconds.
+  path: Assets/FirstDay/school/props/book16.fbx
+  artifactKey: Guid(804dc1b5bcbda42449135bc1c93de072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstDay/school/props/book16.fbx using Guid(804dc1b5bcbda42449135bc1c93de072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f20666537d37ae629376a5ebaca9d03') in 0.023341 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/FirstDay/school/props/book14.fbx
+  artifactKey: Guid(07f0850d4174989458ab5186394dec12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstDay/school/props/book14.fbx using Guid(07f0850d4174989458ab5186394dec12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19018300fc3e1414959f03e4a650090c') in 0.015219 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.875527 seconds.
+  path: Assets/FirstDay/school/props/book4.fbx
+  artifactKey: Guid(4578924f6ad96474fa87f670025340b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstDay/school/props/book4.fbx using Guid(4578924f6ad96474fa87f670025340b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd11fc8927c23f2f81c9d1b74a632ff22') in 0.028612 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/FirstDay/school/props/book8.fbx
+  artifactKey: Guid(c84426d852eade14f99559ca019e22ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstDay/school/props/book8.fbx using Guid(c84426d852eade14f99559ca019e22ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02963a1706e5f9b76baefc538b9dde47') in 0.017394 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/FirstDay/school/props/book9.fbx
+  artifactKey: Guid(6955ffbde79fdc946ba53b35794d8eb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstDay/school/props/book9.fbx using Guid(6955ffbde79fdc946ba53b35794d8eb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60f26603ee9f919df43fd3d61f5a5e11') in 0.046729 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.026954 seconds.
+  path: Assets/FirstDay/school/props/a door1.fbx
+  artifactKey: Guid(e7aacb82296e75c41acea0abba4c8978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstDay/school/props/a door1.fbx using Guid(e7aacb82296e75c41acea0abba4c8978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c02d77259512c9905d404a456c34c0b4') in 0.057633 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/FirstDay/school/props/board.fbx
+  artifactKey: Guid(5613243e699c34046bcf679855532f68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstDay/school/props/board.fbx using Guid(5613243e699c34046bcf679855532f68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be4a1d8af5929b1ec79a9e5e6e35634d') in 0.025833 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000089 seconds.
+  path: Assets/FirstDay/school/props/a laptop.fbx
+  artifactKey: Guid(6a3802d04cb8d4e4d8e354e4a4098cba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstDay/school/props/a laptop.fbx using Guid(6a3802d04cb8d4e4d8e354e4a4098cba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e231ee3073f9a21fa16ea75e59faa004') in 0.018852 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/FirstDay/school/props/book.fbx
+  artifactKey: Guid(fe29f3a55c29a794a8d6a3d12b9aca96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstDay/school/props/book.fbx using Guid(fe29f3a55c29a794a8d6a3d12b9aca96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5fb25363b489ad450c265077c1d28f5') in 0.019134 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting

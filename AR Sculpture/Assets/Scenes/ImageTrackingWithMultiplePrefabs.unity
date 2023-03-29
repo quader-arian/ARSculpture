@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 287391695}
-  m_IndirectSpecularColor: {r: 0.44657874, g: 0.49641258, b: 0.5748172, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657815, g: 0.49641192, b: 0.57481617, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -163,6 +163,13 @@ MonoBehaviour:
   - imageGuid: fdb3d978-8780-46c1-8d5b-1115d3977ca8
     imagePrefab: {fileID: 4946887295856262439, guid: 7552bff151ce1d54ca7eabdddec0765c,
       type: 3}
+  - imageGuid: 78869d1a-bb87-449f-aeca-e2858bb95e05
+    imagePrefab: {fileID: 0}
+  - imageGuid: bb076a04-0d48-4440-8fce-c49335f2bb36
+    imagePrefab: {fileID: 4307436566858073606, guid: 52b62a4cc1ad244f8b8a663760b2b82d,
+      type: 3}
+  - imageGuid: aa2a0300-dfbc-465a-a720-b603684f0865
+    imagePrefab: {fileID: 0}
   m_ImageLibrary: {fileID: 11400000, guid: c86e375d7e7430442a1104e88fa21f21, type: 2}
 --- !u!114 &143437354
 MonoBehaviour:
@@ -1888,6 +1895,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_TrackingType: 0
   m_UpdateType: 0
+  m_IgnoreTrackingState: 0
   m_PositionInput:
     m_UseReference: 0
     m_Action:
@@ -1958,6 +1966,18 @@ MonoBehaviour:
         m_Groups: 
         m_Action: Main Camera - TPD - Rotation
         m_Flags: 0
+      m_Flags: 0
+    m_Reference: {fileID: 0}
+  m_TrackingStateInput:
+    m_UseReference: 0
+    m_Action:
+      m_Name: 
+      m_Type: 0
+      m_ExpectedControlType: 
+      m_Id: 
+      m_Processors: 
+      m_Interactions: 
+      m_SingletonActionBindings: []
       m_Flags: 0
     m_Reference: {fileID: 0}
   m_PositionAction:
